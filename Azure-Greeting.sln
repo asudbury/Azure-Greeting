@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure-Greeting", "Azure-Greeting\Azure-Greeting.csproj", "{1C56E2F2-216B-42CF-8BDB-65C9BEA00F33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure-Greeting", "Azure-Greeting\Azure-Greeting.csproj", "{1C56E2F2-216B-42CF-8BDB-65C9BEA00F33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A74E246C-4746-4D54-8A37-AA60C8D94924}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
